@@ -1,4 +1,4 @@
-package pl.szymonsmenda.ChuckNorisJokes;
+package pl.szymonsmenda.ChuckNorisJokes.Controller;
 
 import guru.springframework.norris.chuck.ChuckNorrisQuotes;
 import org.springframework.stereotype.Controller;
